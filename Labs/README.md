@@ -94,7 +94,7 @@ INSERT INTO orders (customer_name, product_id, quantity, total_price, order_date
 - Calculate the **average price** of products.
 - Identify the **cheapest and most expensive** products.
 
-### **3.5 Use CASE for Conditional Logic**
+### **BONUS: 3.5 Use CASE for Conditional Logic**
 - Create a column that labels products as:
   - `Expensive` (price > 100)
   - `Moderate` (price between 50-100)
